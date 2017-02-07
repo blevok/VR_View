@@ -101,10 +101,6 @@
     <None Include="Resources\maximize.png" />
     <None Include="Resources\minimize.png" />
     <Content Include="vr-view.ico" />
-    <Content Include="vrview.ico" />
-    <Content Include="VR_ViewBackground.png" />
-    <Content Include="VR_View.png" />
-    <Content Include="VR_ViewWebUI.png" />
     <Content Include="WebServer\bootstrap.min.css">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
