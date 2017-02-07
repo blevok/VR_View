@@ -47,4 +47,8 @@ VR_View also retains ScreenTask's capability to stream the desktop view via web 
 
 [Mobile view through Teamviewer](https://drive.google.com/file/d/0B6k8Z8ibdu9UTnNGV2d0blRfNlk/view?usp=sharing)
 
+------------------------------
+
+### License :
+VR_View is released under the GPL v3 (or later) license, see : http://www.gnu.org/licenses/gpl-3.0.html
 
