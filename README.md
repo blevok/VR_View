@@ -39,14 +39,12 @@ VR_View also retains ScreenTask's capability to stream the desktop view via web 
 > Works On Windows Vista/7/8/10 | Windows XP Not Supported Since The .NET 4.5 Not Supported On It.
 
 ------------------------------
+### Screenshots
 
-### Working view (work on left monitor, view on right): 
-![Normal view](https://drive.google.com/file/d/0B6k8Z8ibdu9UNW5qUmp0dUhJMUk/view?usp=sharing)
+[Working view (work on left monitor, view on right)](https://drive.google.com/file/d/0B6k8Z8ibdu9UNW5qUmp0dUhJMUk/view?usp=sharing)
 
-### Settings view: 
-![Settings view](https://drive.google.com/file/d/0B6k8Z8ibdu9UNXBLV3JBbmxGWk0/view?usp=sharing)
+[Settings view](https://drive.google.com/file/d/0B6k8Z8ibdu9UNXBLV3JBbmxGWk0/view?usp=sharing)
 
-### Mobile view through Teamviewer: 
-![Mobile view](https://drive.google.com/file/d/0B6k8Z8ibdu9UTnNGV2d0blRfNlk/view?usp=sharing)
+[Mobile view through Teamviewer](https://drive.google.com/file/d/0B6k8Z8ibdu9UTnNGV2d0blRfNlk/view?usp=sharing)
 
 
