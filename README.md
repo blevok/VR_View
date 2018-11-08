@@ -32,20 +32,26 @@ VR_View also retains ScreenTask's capability to stream the desktop view via web 
 
 ------------------------------
 
-> You can download the pre-compiled application [here](https://drive.google.com/file/d/0B6k8Z8ibdu9UUTdXUTBUaDdzQlk/view?usp=sharing).
-
-> .NET Framework 4.5 Required [Download NOW!](http://www.microsoft.com/en-eg/download/details.aspx?id=30653)
+> .NET Framework 4.5 Required [Download here](http://www.microsoft.com/en-eg/download/details.aspx?id=30653)
 
 > Works On Windows Vista/7/8/10 | Windows XP Not Supported Since The .NET 4.5 Not Supported On It.
+
+> You can download the pre-compiled application [here](https://github.com/blevok/VR_View/releases)
 
 ------------------------------
 ### Screenshots
 
-[Working view (work on left monitor, view on right)](https://drive.google.com/file/d/0B6k8Z8ibdu9UNW5qUmp0dUhJMUk/view?usp=sharing)
+**Working view (work on left monitor, view on right):**
 
-[Settings view](https://drive.google.com/file/d/0B6k8Z8ibdu9UNXBLV3JBbmxGWk0/view?usp=sharing)
+![Working view (work on left monitor, view on right](https://raw.githubusercontent.com/blevok/VR_View/dev/VR_View/ss-working.png)
 
-[Mobile view through Teamviewer](https://drive.google.com/file/d/0B6k8Z8ibdu9UTnNGV2d0blRfNlk/view?usp=sharing)
+**Settings view:**
+
+![Settings view](https://raw.githubusercontent.com/blevok/VR_View/dev/VR_View/ss-settings.png)
+
+**Mobile view through Teamviewer:**
+
+![Mobile view through Teamviewer](https://raw.githubusercontent.com/blevok/VR_View/dev/VR_View/ss-mobile.png)
 
 ------------------------------
 
