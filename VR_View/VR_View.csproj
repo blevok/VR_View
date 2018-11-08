@@ -100,6 +100,9 @@
     <None Include="Resources\hide1.png" />
     <None Include="Resources\maximize.png" />
     <None Include="Resources\minimize.png" />
+    <Content Include="ss-mobile.png" />
+    <Content Include="ss-settings.png" />
+    <Content Include="ss-working.png" />
     <Content Include="vr-view.ico" />
     <Content Include="WebServer\bootstrap.min.css">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
