@@ -1,4 +1,4 @@
-##VR_View
+### VR_View
 
 This is a fork of [ScreenTask](https://github.com/EslaMx7/ScreenTask) in C# by [EslaMx7](https://github.com/EslaMx7)
 
@@ -25,10 +25,6 @@ Another option is to create a ghost monitor using a special hdmi or vga connecto
 ------------------------------
 
 If you use spacedesk as a second monitor, or have two physical monitors of different resolutions, it is best to run VR_View on the monitor with the higher resolution, to get the clearest view through the remote connection from your phone to the PC.
-
-------------------------------
-
-VR_View also retains ScreenTask's capability to stream the desktop view via web browser, but i have not split that view into a side by side presentation.
 
 ------------------------------
 

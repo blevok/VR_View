@@ -90,7 +90,6 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="imgPrev.png" />
     <None Include="Resources\close.png" />
     <None Include="Resources\previewbg.png" />
     <None Include="Resources\settings.png" />
@@ -104,12 +103,6 @@
     <Content Include="ss-settings.png" />
     <Content Include="ss-working.png" />
     <Content Include="vr-view.ico" />
-    <Content Include="WebServer\bootstrap.min.css">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
-    <Content Include="WebServer\index.html">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
   </ItemGroup>
   <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
